@@ -8,9 +8,12 @@ body {
     margin: 0
 }
 
+
 main {
     display: block
 }
+
+
 
 
 
@@ -25,6 +28,7 @@ pre {
     font-family: monospace, monospace;
     font-size: 1em
 }
+
 
 a {
     background-color: transparent
@@ -304,6 +308,7 @@ body {
         sans-serif;
     font-weight: 400
 }
+
 h1,
 h2,
 h3,
@@ -312,6 +317,7 @@ h5,
 h6 {
     margin: 0;
 }
+
 a {
     display: inline-block;
     text-decoration: none;
@@ -332,6 +338,7 @@ li {
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s
 }
+
 
 .container {
     padding: 0 15px;
@@ -1397,6 +1404,10 @@ input[type="text"] {
         height: 90vh
     }
 
+    .menu_list {
+        height: 90vh
+    }
+
     .menu_list a {
         font-size: 28px;
         min-width: 220px;
@@ -1469,6 +1480,10 @@ input[type="text"] {
     }
 
     .header__bg {
+        height: 85vh
+    }
+
+    .menu_list {
         height: 85vh
     }
 
