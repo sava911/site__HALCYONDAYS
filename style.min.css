@@ -15,14 +15,7 @@ main {
 
 
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    margin: 0;
-}
+
 
 hr {
     -webkit-box-sizing: content-box;
@@ -316,6 +309,15 @@ body {
     font-weight: 400
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
 a {
     display: inline-block;
     text-decoration: none;
@@ -336,6 +338,7 @@ li {
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s
 }
+
 
 .container {
     padding: 0 15px;
