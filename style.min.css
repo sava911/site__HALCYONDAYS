@@ -1393,6 +1393,10 @@ input[type="text"] {
         height: 90vh
     }
 
+    .menu_list {
+        height: 90vh
+    }
+
     .menu_list a {
         font-size: 28px;
         min-width: 220px;
